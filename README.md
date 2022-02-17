@@ -1,2 +1,5 @@
 # My-Clinic
-Final project in software engineering class
+Final project in software engineering class done in collaboration with:
+@djordje-j
+@BogicevicBojana
+@veljko-v
